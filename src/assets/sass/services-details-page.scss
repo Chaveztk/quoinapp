@@ -1,0 +1,43 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.services-details-page {
+  background-image: url("../images/legal-1.jpg");
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: cover;
+  width: 100vw;
+  height: 70vh;
+
+  &__container {
+    padding-top: 70vh;
+  }
+
+  &__services-details-page-header {
+    position: relative;
+    top: 45vh;
+    left: 20vw;
+    & h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    p {
+      color: white;
+    }
+  }
+
+  &__gallery {
+    padding: 3rem 0;
+  }
+}
