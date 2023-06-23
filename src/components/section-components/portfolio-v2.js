@@ -106,7 +106,7 @@ class PortfolioV1 extends Component {
               </div>
             </div> */}
             {/* gallery-item */}
-            <div className="ltn__gallery-item filter_category_1 col-lg-4 col-sm-6 col-12">
+            {/* <div className="ltn__gallery-item filter_category_1 col-lg-4 col-sm-6 col-12">
               <div className="ltn__gallery-item-inner">
                 <div className="ltn__gallery-item-img">
                   <a
@@ -129,7 +129,7 @@ class PortfolioV1 extends Component {
                   <p>Web Design &amp; Development, Branding</p>
                 </div>
               </div>
-            </div>
+            </div> */}
             {/* gallery-item */}
             {/* <div className="ltn__gallery-item filter_category_3 col-lg-4 col-sm-6 col-12">
               <div className="ltn__gallery-item-inner">

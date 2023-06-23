@@ -37,11 +37,11 @@ class Refurbishment extends Component {
                 properties are well-maintained, functional, and attractive to
                 tenants.
               </p>
-              <p>
+              {/* <p>
                 {" "}
                 Here are some ways Quion property management provides
                 refurbishment help:
-              </p>
+              </p> */}
             </div>
             <div className="row mt-4 mb-4 reverse-columns">
               <div className="col-lg-6">

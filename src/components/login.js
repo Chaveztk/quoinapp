@@ -11,7 +11,7 @@ const LoginV1 = () => {
       <Navbar />
       <PageHeader headertitle="Account" subheader="Login" />
       <Login />
-      <CallToActionV1 />
+      {/* <CallToActionV1 /> */}
       <Footer />
     </div>
   );

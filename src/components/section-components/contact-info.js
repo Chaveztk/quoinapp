@@ -36,8 +36,8 @@ class ContactInfo extends Component {
 
                 <h3>Email Address</h3>
                 <p>
-                  info@quoinmanagement.com <br />
-                  chavez.king@quoinmanagement.com
+                  info@quoinmanagement.com <br /> <br />
+                  {/* chavez.king@quoinmanagement.com */}
                 </p>
               </div>
             </div>

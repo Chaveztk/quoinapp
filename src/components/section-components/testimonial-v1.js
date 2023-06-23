@@ -37,10 +37,10 @@ class Testimonial extends Component {
                   </p>
                   <div className="ltn__testimoni-info-inner">
                     <div className="ltn__testimoni-img">
-                      <img
+                      {/* <img
                         src={publicUrl + "assets/img/testimonial/jacob.jpg"}
                         alt="#"
-                      />
+                      /> */}
                     </div>
                     <div className="ltn__testimoni-name-designation">
                       <h5>Jacob William</h5>
@@ -64,10 +64,10 @@ class Testimonial extends Component {
                   </p>
                   <div className="ltn__testimoni-info-inner">
                     <div className="ltn__testimoni-img">
-                      <img
+                      {/* <img
                         src={publicUrl + "assets/img/testimonial/kelian.jpg"}
                         alt="#"
-                      />
+                      /> */}
                     </div>
                     <div className="ltn__testimoni-name-designation">
                       <h5>Kelian Anderson</h5>
@@ -91,10 +91,10 @@ class Testimonial extends Component {
                   </p>
                   <div className="ltn__testimoni-info-inner">
                     <div className="ltn__testimoni-img">
-                      <img
+                      {/* <img
                         src={publicUrl + "assets/img/testimonial/adam.jpg"}
                         alt="#"
-                      />
+                      /> */}
                     </div>
                     <div className="ltn__testimoni-name-designation">
                       <h5>Adam Joseph</h5>

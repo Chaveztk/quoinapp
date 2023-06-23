@@ -25,7 +25,7 @@ class CommercialManagement extends Component {
                 <div className="ltn__page-details-inner ltn__service-details-inner">
                   <div className="ltn__blog-grid-img">
                     <img
-                      src={publicUrl + "assets/img/service/residential-1.jpeg"}
+                      src={publicUrl + "assets/img/service/block-4.jpg"}
                       alt="Image"
                     />
                   </div>
@@ -64,15 +64,15 @@ class CommercialManagement extends Component {
                     <div className="col-lg-6">
                       <img
                         src={
-                          publicUrl + "assets/img/service/residential-2.jpeg"
+                          publicUrl + "assets/img/service/block-5.jpg"
                         }
                         alt="image"
                       />
-                      <label>Image caption here.</label>
+                      {/* <label>Image caption here.</label> */}
                     </div>
                     <div className="col-lg-6">
                       <img
-                        src={publicUrl + "assets/img/service/residential-3.jpg"}
+                        src={publicUrl + "assets/img/service/block-6.jpg"}
                         alt="image"
                       />
                     </div>
@@ -161,7 +161,7 @@ class CommercialManagement extends Component {
                   </div>
                   {/* Newsletter Widget */}
                   <div className="widget ltn__search-widget ltn__newsletter-widget">
-                    <h6 className="ltn__widget-sub-title">// subscribe</h6>
+                    <h6 className="ltn__widget-sub-title">subscribe</h6>
                     <h4 className="ltn__widget-title">Get Newsletter</h4>
                     <form action="#">
                       <input type="text" name="search" placeholder="Search" />

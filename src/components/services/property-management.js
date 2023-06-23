@@ -25,14 +25,14 @@ class PropertyManagement extends Component {
                 <div className="ltn__page-details-inner ltn__service-details-inner">
                   <div className="ltn__blog-grid-img">
                     <img
-                      src={publicUrl + "assets/img/service/property-1.jpeg"}
+                      src={publicUrl + "assets/img/service/property-4.jpg"}
                       alt="Image"
                     />
                   </div>
-                  <p>
+                  {/* <p>
                     Quoin Management are highly experienced service providers
                     for blocks of flats, properties and estates.
-                  </p>
+                  </p> */}
                   <h1>
                     Big or small we have a list of properties under management.
                   </h1>
@@ -62,7 +62,7 @@ class PropertyManagement extends Component {
                         src={publicUrl + "assets/img/service/property-2.jpeg"}
                         alt="image"
                       />
-                      <label>Image caption here.</label>
+                      {/* <label>Image caption here.</label> */}
                     </div>
                     <div className="col-lg-6">
                       <img
@@ -173,7 +173,7 @@ class PropertyManagement extends Component {
                   </div>
                   {/* Newsletter Widget */}
                   <div className="widget ltn__search-widget ltn__newsletter-widget">
-                    <h6 className="ltn__widget-sub-title">// subscribe</h6>
+                    <h6 className="ltn__widget-sub-title"> subscribe</h6>
                     <h4 className="ltn__widget-title">Get Newsletter</h4>
                     <form action="#">
                       <input type="text" name="search" placeholder="Search" />

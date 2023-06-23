@@ -30,11 +30,11 @@ class ResidentialManagement extends Component {
                       alt="Image"
                     />
                   </div>
-                  <p>
+                  {/* <p>
                     {" "}
                     We understand that renting out a residential property can be
                     overwhelming....
-                  </p>
+                  </p> */}
 
                   <h1>Quoin residential management For Your Property Needs</h1>
                   <p>
@@ -71,7 +71,7 @@ class ResidentialManagement extends Component {
                         }
                         alt="image"
                       />
-                      <label>Image caption here.</label>
+                      {/* <label>Image caption here.</label> */}
                     </div>
                     <div className="col-lg-6">
                       <img
@@ -168,7 +168,7 @@ class ResidentialManagement extends Component {
                   </div>
                   {/* Newsletter Widget */}
                   <div className="widget ltn__search-widget ltn__newsletter-widget">
-                    <h6 className="ltn__widget-sub-title">// subscribe</h6>
+                    <h6 className="ltn__widget-sub-title"> subscribe</h6>
                     <h4 className="ltn__widget-title">Get Newsletter</h4>
                     <form action="#">
                       <input type="text" name="search" placeholder="Search" />

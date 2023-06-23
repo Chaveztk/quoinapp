@@ -12,9 +12,9 @@ import Home from "./components/home";
 import About from "./components/about";
 import Service from "./components/service";
 import ServiceDetails from "./components/service-details";
-import Portfolio from "./components/portfolio";
-import PortfolioV2 from "./components/portfolio-v2";
-import PortfolioDetails from "./components/portfolio-details";
+// import Portfolio from "./components/portfolio";
+// import PortfolioV2 from "./components/portfolio-v2";
+// import PortfolioDetails from "./components/portfolio-details";
 import Team from "./components/team";
 import TeamDetails from "./components/team-details";
 import Faq from "./components/faq";
@@ -98,9 +98,9 @@ class Root extends Component {
             <Route path="/portfolio-2" component={PortfolioTwo} />
             <Route path="/portfolio-3" component={PortfolioThree} />
 
-            <Route path="/portfolio" component={Portfolio} />
+            {/* <Route path="/portfolio" component={Portfolio} />
             <Route path="/portfolios" component={PortfolioV2} />
-            <Route path="/portfolio-details" component={PortfolioDetails} />
+            <Route path="/portfolio-details" component={PortfolioDetails} /> */}
             <Route path="/team" component={Team} />
             <Route path="/team-details" component={TeamDetails} />
             <Route path="/faq" component={Faq} />
@@ -113,6 +113,7 @@ class Root extends Component {
             <Route path="/shop-right-sidebar" component={ShopRightSidebar} />
 
             <Route path="/product-details" component={ProdductDetails} />
+            
             {/* blog */}
             <Route path="/news" component={BlogGrid} />
             <Route path="/blog-left-sidebar" component={BlogLeftSidebar} />

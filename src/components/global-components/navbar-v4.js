@@ -40,22 +40,22 @@ class NavbarV3 extends Component {
                           <div className="ltn__social-media">
                             <ul>
                               <li>
-                                <a href="#" title="Facebook">
+                                {/* <a href="#" title="Facebook">
                                   <i className="fab fa-facebook-f" />
-                                </a>
+                                </a> */}
                               </li>
                               <li>
-                                <a href="#" title="Twitter">
+                                {/* <a href="#" title="Twitter">
                                   <i className="fab fa-twitter" />
-                                </a>
+                                </a> */}
                               </li>
                               <li>
-                                <a
+                                {/* <a
                                   href="https://www.instagram.com/quoinmanagement/?igshid=YmMyMTA2M2Y%3D"
                                   title="Instagram"
                                 >
                                   <i className="fab fa-instagram" />
-                                </a>
+                                </a> */}
                               </li>
                             </ul>
                           </div>
@@ -147,9 +147,9 @@ class NavbarV3 extends Component {
                               </li>
                             </ul>
                           </li>
-                          <li className="">
+                          {/* <li className="">
                             <Link to="/portfolios">Portfolio</Link>
-                          </li>
+                          </li> */}
                           {/* <li className="">
                             <Link to="/news">News</Link>
                           </li> */}
