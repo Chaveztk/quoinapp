@@ -126,9 +126,9 @@ class NavbarV3 extends Component {
 									<li><Link to="/about">About</Link></li>
 									<li><Link to="/service">Services</Link></li>
 									<li><Link to="/service-details">Service Details</Link></li>
-									<li><Link to="/portfolio">Portfolio</Link></li>
+									{/* <li><Link to="/portfolio">Portfolio</Link></li>
 									<li><Link to="/portfolio-v2">Portfolio - 02</Link></li>
-									<li><Link to="/portfolio-details">Portfolio Details</Link></li>
+									<li><Link to="/portfolio-details">Portfolio Details</Link></li> */}
 									<li><Link to="/team">Team</Link></li>
 									<li><Link to="/team-details">Team Details</Link></li>
 									<li><Link to="/faq">FAQ</Link></li>
@@ -162,9 +162,9 @@ class NavbarV3 extends Component {
 								<ul class="mega-menu">
 									<li><a href="#">Inner Pages</a>
 										<ul>
-											<li><Link to="/portfolio">Portfolio</Link></li>
+											{/* <li><Link to="/portfolio">Portfolio</Link></li>
 											<li><Link to="/portfolio">Portfolio - 02</Link></li>
-											<li><Link to="/portfolio-details">Portfolio Details</Link></li>
+											<li><Link to="/portfolio-details">Portfolio Details</Link></li> */}
 											<li><Link to="/team">Team</Link></li>
 											<li><Link to="/team-details">Team Details</Link></li>
 											<li><Link to="/faq">FAQ</Link></li>
@@ -254,9 +254,9 @@ class NavbarV3 extends Component {
 							<li><Link to="/about">About</Link></li>
 							<li><Link to="/service">Services</Link></li>
 							<li><Link to="/service-details">Service Details</Link></li>
-							<li><Link to="/portfolio">Portfolio</Link></li>
+							{/* <li><Link to="/portfolio">Portfolio</Link></li>
 							<li><Link to="/portfolio-v2">Portfolio - 02</Link></li>
-							<li><Link to="/portfolio-details">Portfolio Details</Link></li>
+							<li><Link to="/portfolio-details">Portfolio Details</Link></li> */}
 							<li><Link to="/team">Team</Link></li>
 							<li><Link to="/team-details">Team Details</Link></li>
 							<li><Link to="/faq">FAQ</Link></li>
@@ -291,9 +291,9 @@ class NavbarV3 extends Component {
 								<li><Link to="/about">About</Link></li>
 								<li><Link to="/service">Services</Link></li>
 								<li><Link to="/service-details">Service Details</Link></li>
-								<li><Link to="/portfolio">Portfolio</Link></li>
+								{/* <li><Link to="/portfolio">Portfolio</Link></li>
 								<li><Link to="/portfolio-2">Portfolio - 02</Link></li>
-								<li><Link to="/portfolio-details">Portfolio Details</Link></li>
+								<li><Link to="/portfolio-details">Portfolio Details</Link></li> */}
 								<li><Link to="/team">Team</Link></li>
 								<li><Link to="/team-details">Team Details</Link></li>
 								<li><Link to="/faq">FAQ</Link></li>

@@ -250,7 +250,7 @@ class NavbarV3 extends Component {
                   </ul>
                 </li>
                 <li>
-                  <Link to="/portfolios">Portfolio</Link>
+                  {/* <Link to="/portfolios">Portfolio</Link> */}
                 </li>
                 {/* <li>
                   <Link to="/news">News</Link>
